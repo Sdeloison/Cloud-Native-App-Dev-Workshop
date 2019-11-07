@@ -6,10 +6,10 @@ The goal of this workshop is to help them build a proof of concept (POC) that wi
 
 October 2019
 
-## Target Audience
+## Before you start
 
-- Application developer
-- Infrastructure architect
+- Review Welcome Video on [Microsoft Cloud Workshop homepage](https://microsoftcloudworkshop.com/) to understand the concept of Microsoft Cloud Workshops
+- Review [How to deliver Microsoft Cloud Workshop](https://microsoftcloudworkshop.com/HowToDeliver/) content
 
 ## Abstracts
 
@@ -39,16 +39,9 @@ At the end of this lab you will be better able to build and deploy containerized
 - Docker
 - Cosmos DB (including MongoDB API)
 
-## Azure solutions
-App Modernization
-
 ## Related references
 
 - [MCW](https://github.com/Microsoft/MCW)
-
-## Help & Support
-
-We welcome feedback and comments from Microsoft SMEs & learning partners who deliver MCWs.  
 
 ***Having trouble?***
 - First, verify you have followed all written lab instructions (including the Before the Hands-on lab document).
@@ -57,4 +50,4 @@ We welcome feedback and comments from Microsoft SMEs & learning partners who del
 
 If you are planning to present a workshop, *review and test the materials early*! We recommend at least two weeks prior.
 
-### Please allow 5 - 10 business days for review and resolution of issues.
+Leave your comments here or send an email to [kirilk@microsoft.com](kirilk@microsoft.com) with any questions.
