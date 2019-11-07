@@ -50,4 +50,4 @@ At the end of this lab you will be better able to build and deploy containerized
 
 If you are planning to present a workshop, *review and test the materials early*! We recommend at least two weeks prior.
 
-Leave your comments here or send an email to [kirilk@microsoft.com](kirilk@microsoft.com) with any questions.
+Leave your comments here or send an email to kirilk@microsoft.com with any questions.
