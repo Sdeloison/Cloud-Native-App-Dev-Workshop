@@ -39,9 +39,6 @@ At the end of this lab, you will be better able to build and deploy containerize
 - Docker
 - Cosmos DB (including MongoDB API)
 
-## Azure solutions
-App Modernization
-
 ## Related references
 
 - [MCW](https://github.com/Microsoft/MCW)
