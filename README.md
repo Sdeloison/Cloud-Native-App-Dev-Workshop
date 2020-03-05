@@ -8,6 +8,7 @@ January 2020
 
 ## Before you start
 
+- Take a look at a partner BOM for [Cloud Native In a Day](https://partner.microsoft.com/en-us/asset/collection/cloud-native-in-a-day)
 - Review Welcome Video on [Microsoft Cloud Workshop homepage](https://microsoftcloudworkshop.com/) to understand the concept of Microsoft Cloud Workshops
 - Review [How to deliver Microsoft Cloud Workshop](https://microsoftcloudworkshop.com/HowToDeliver/) content
 
